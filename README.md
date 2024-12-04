@@ -1,8 +1,6 @@
 # **Data Analysis of GitHub Users in Barcelona**
-## Key Highlights
-
 ### Data Scraping:
-     Leveraging the GitHub API, we collected data on users in Barcelona with over 100 followers using a Python script. The data includes user profiles and repository details.
+Leveraging the GitHub API, we collected data on users in Barcelona with over 100 followers using a Python script. The data includes user profiles and repository details.
 ### Insights Found: 
     The most followed users predominantly work on JavaScript projects, and many joined GitHub before 2015, showing long-standing community presence.
 ### Recommendation:
